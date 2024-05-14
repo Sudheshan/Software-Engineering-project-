@@ -10,6 +10,9 @@ Functional Requirements:-
 4. **Security and Access Control** - Implementation of user authentication mechanism to restrict access to sensitive and personal information.
 5. **Alerts and Notification** - Notify and alerts customers on their prescriptions are ready for pickup and send alerts for important events such as low stock level, expired medicines or pending prescriptions.
 6. **Barcode Scanning and Labeling** - Generate on labels for medicines to facilitate inventory management and checkout process. This also suuports barcode scanning for quick and accurate entry of medicine details.
+7. **User Authentication and Authorization** - Ensure that only authorised staff may access certain capabilities by implementing role-based access control and secure user login.
+8. **Online Ordering** - Provide customers with an online ordering platform so they may purchase medications and medical supplies.
+9. **Electronic Health Record Integration** - Access patient health information and guarantee safe pharmaceutical practices by integrating with electronic health record systems.
 
 Non-Fuctional Requirements:-
 
