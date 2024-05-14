@@ -3,6 +3,9 @@
 **List Down 9 Functional Requirements and 3 Non-Fuctional Requirements**
 
 Functional Requirements
+1. Inventory Management- track avaliable stocks including details of medicationand alert when stocks are low.
+2. Perscription Management- record and store prescriptions from customers as well asassosiate prescriptions with specific customers.
+3. Customer Management- Maintain a database of customersinformation including contact detail and medical history.
 
 Non-Fuctional Requirements
 
