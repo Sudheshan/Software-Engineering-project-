@@ -6,6 +6,6 @@ Functional Requirements
 
 Non-Fuctional Requirements
 
-1. <h6>**Performance**<h6> - The system should be responsive and capable of handling multiple concurent users without significant slowdowns, ensuring smooth operation during peak hours.
-2. <h6>**Security**<h6> - The system must be complied with the company standards and data security, where it includes encrytion of personal information, user authentication measures and access control policies to prevent unauthorized access.
-3. <h6>**Usability**<h6> - The user interface should be straightforward and easy to use, requiring minimal instruction for pharmacists and staff. Adherence to accessibility standards is crucial for accommodating persons with limitations.
+1. **Performance** - The system should be responsive and capable of handling multiple concurent users without significant slowdowns, ensuring smooth operation during peak hours.
+2. **Security** - The system must be complied with the company standards and data security, where it includes encrytion of personal information, user authentication measures and access control policies to prevent unauthorized access.
+3. **Usability** - The user interface should be straightforward and easy to use, requiring minimal instruction for pharmacists and staff. Adherence to accessibility standards is crucial for accommodating persons with limitations.
